@@ -7,11 +7,14 @@
 
 ## Description
 
-This is my portfolio website built using React (Vite), styled with Tailwind CSS, and hosted with Render. The site is designed to showcase my projects, skills, and experiences. Contact form powered by [Herotofu](https://herotofu.com/).
+This is my portfolio website (Deprecated) built using React (Vite), styled with Tailwind CSS, and hosted with Render. The site is designed to showcase my projects, skills, and experiences. Contact form powered by [Herotofu](https://herotofu.com/).
+
+## Note: 
+This is my old portfolio, if you would like to see my most recent one visit https://tyleroneil.dev
 
 ## Link
 
-To explore the live version of this site, please visit https://tyleroneil.dev
+To explore the live version of this site, click [here](https://portfolio-clmb.onrender.com)
 
 ## Contact
 
